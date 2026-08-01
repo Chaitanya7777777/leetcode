@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chaitanya7777777/leetcode/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/Chaitanya7777777/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1929-concatenation-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chaitanya7777777/leetcode/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/Chaitanya7777777/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/1929-concatenation-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Chaitanya7777777/leetcode/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Chaitanya7777777/leetcode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Chaitanya7777777/leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->

@@ -3,41 +3,30 @@ public:
 long long int mod=1e9+7;
     int countPalindromes(string s) {
         int n=s.size();
-        vector<vector<vector<int>>>pre(n,vector<vector<int>>(10,vector<int>(10,0)));
-        vector<vector<vector<int>>>suf(n,vector<vector<int>>(10,vector<int>(10,0)));
-        vector<int>cnt(10,0);
-        for(int i=0;i<n;i++){
-            int c=s[i]-'0';
-            if(i>0){
-                for(int j=0;j<10;j++){
-                    for(int k=0;k<10;k++){
-                        pre[i][j][k]=pre[i-1][j][k];
-                        if(k==c)pre[i][j][k]+=cnt[j];
-                    }
-                }
-            }
-            cnt[c]++;
-        }
-        for(int i=0;i<10;i++)cnt[i]=0;
+        if(n<5)return 0;
+        vector<vector<int>>prepair(10,vector<int>(10,0)),sufpair(10,vector<int>(10,0));
+        vector<int>pre(10,0),suf(10,0);
         for(int i=n-1;i>=0;i--){
             int c=s[i]-'0';
-            if(i<n-1){
-                for(int j=0;j<10;j++){
-                    for(int k=0;k<10;k++){
-                        suf[i][j][k]=suf[i+1][j][k];
-                        if(k==c)suf[i][j][k]+=cnt[j];
-                    }
-                }
+            for(int j=0;j<10;j++){
+                sufpair[c][j]+=suf[j];
             }
-            cnt[c]++;
+            suf[c]++;
         }
         long long int ans=0;
-        for(int i=1;i<n-1;i++){
+        for(int i=0;i<n;i++){
+            int c=s[i]-'0';
+            suf[c]--;
+            for(int j=0;j<10;j++)sufpair[c][j]-=suf[j];
+            long long int ways=0;
             for(int j=0;j<10;j++){
                 for(int k=0;k<10;k++){
-                    ans=(ans+1LL*pre[i-1][j][k]*suf[i+1][j][k])%mod;
+                    ways=(ways+(1LL*prepair[j][k]*sufpair[k][j])%mod)%mod;
                 }
             }
+            ans=(ans+ways)%mod;
+            for(int j=0;j<10;j++)prepair[j][c]+=pre[j];
+            pre[c]++;
         }
         return ans;
     }

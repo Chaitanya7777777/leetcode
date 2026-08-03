@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chaitanya7777777/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/Chaitanya7777777/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [1929-concatenation-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/1929-concatenation-of-array) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
 ## Greedy
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Chaitanya7777777/leetcode/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/Chaitanya7777777/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2484-count-palindromic-subsequences](https://github.com/Chaitanya7777777/leetcode/tree/master/2484-count-palindromic-subsequences) |
 ## Recursion
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chaitanya7777777/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -107,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/Chaitanya7777777/leetcode/tree/master/0636-exclusive-time-of-functions) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

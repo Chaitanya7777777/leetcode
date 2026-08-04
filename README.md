@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [1929-concatenation-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/1929-concatenation-of-array) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [3731-find-missing-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

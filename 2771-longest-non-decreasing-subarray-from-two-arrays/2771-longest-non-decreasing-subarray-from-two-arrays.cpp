@@ -2,14 +2,17 @@ class Solution {
 public:
     int maxNonDecreasingLength(vector<int>& nums1, vector<int>& nums2) {
         int n=nums1.size();
-        vector<vector<int>>dp(n,vector<int>(2,1));
+        int dp1=1,dp2=1;
         int ans=1;
         for(int i=1;i<n;i++){
-            if(nums1[i]>=nums1[i-1])dp[i][0]=max(dp[i][0],dp[i-1][0]+1);
-            if(nums1[i]>=nums2[i-1])dp[i][0]=max(dp[i][0],dp[i-1][1]+1);
-            if(nums2[i]>=nums2[i-1])dp[i][1]=max(dp[i][1],dp[i-1][1]+1);
-            if(nums2[i]>=nums1[i-1])dp[i][1]=max(dp[i][1],dp[i-1][0]+1);
-            ans=max({ans,dp[i][0],dp[i][1]});
+            int ndp1=1,ndp2=1;
+            if(nums1[i]>=nums1[i-1])ndp1=max(ndp1,dp1+1);
+            if(nums1[i]>=nums2[i-1])ndp1=max(ndp1,dp2+1);
+            if(nums2[i]>=nums2[i-1])ndp2=max(ndp2,dp2+1);
+            if(nums2[i]>=nums1[i-1])ndp2=max(ndp2,dp1+1);
+            ans=max({ans,ndp1,ndp2});
+            dp1=ndp1;
+            dp2=ndp2;
         }
         return ans;
     }

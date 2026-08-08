@@ -9,17 +9,17 @@ public:
         vector<int>visitedforeachk(k+1,0) ; 
          n = grid.size() ; 
          m = grid[0].size() ; 
-        vector<tuple<int,int,int>>vec ;  // flat the grid ; 
+        vector<tuple<int,int,int>>vec ; 
         for(int i=0 ; i<n ; i++){
             for(int j=0 ; j<m ;j++){
                 vec.push_back({grid[i][j] , i ,j}) ; 
             }
         }
-        sort(vec.begin() , vec.end()) ;  //sort it 
+        sort(vec.begin() , vec.end()) ;  
 
-        priority_queue<tuple<int,int,int,int> , vector<tuple<int,int,int,int>> ,greater<tuple<int,int,int,int>>> pq ; // pq for dikastra
+        priority_queue<tuple<int,int,int,int> , vector<tuple<int,int,int,int>> ,greater<tuple<int,int,int,int>>> pq ; 
         pq.push({0,0,0,0}) ; 
-        vector<vector<vector<int>>>dist (n,vector<vector<int>>(m,vector<int>(k+1, INT_MAX)))  ; // dist vector //accounts for k jumps //for each jumo we have a diff distance 
+        vector<vector<vector<int>>>dist (n,vector<vector<int>>(m,vector<int>(k+1, INT_MAX)))  ; 
         
         while(!pq.empty()){
             auto[cost , currk ,i ,j ] = pq.top() ; 

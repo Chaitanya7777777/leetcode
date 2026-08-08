@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chaitanya7777777/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chaitanya7777777/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chaitanya7777777/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2466-count-ways-to-build-good-strings](https://github.com/Chaitanya7777777/leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2484-count-palindromic-subsequences](https://github.com/Chaitanya7777777/leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Chaitanya7777777/leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chaitanya7777777/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chaitanya7777777/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Chaitanya7777777/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chaitanya7777777/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3649-number-of-perfect-pairs](https://github.com/Chaitanya7777777/leetcode/tree/master/3649-number-of-perfect-pairs) |
 ## Bracket Sequences
 |  |

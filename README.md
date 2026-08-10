@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1929-concatenation-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/1929-concatenation-of-array) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Chaitanya7777777/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Chaitanya7777777/leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Chaitanya7777777/leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chaitanya7777777/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Chaitanya7777777/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

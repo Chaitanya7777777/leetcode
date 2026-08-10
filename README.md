@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Chaitanya7777777/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/Chaitanya7777777/leetcode/tree/master/2466-count-ways-to-build-good-strings) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -166,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chaitanya7777777/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Chaitanya7777777/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Chaitanya7777777/leetcode/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chaitanya7777777/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/Chaitanya7777777/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -240,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
+## Tree
+|  |
+| ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 <!---LeetCode Topics End-->

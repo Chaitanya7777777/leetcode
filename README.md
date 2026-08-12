@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Chaitanya7777777/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Chaitanya7777777/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1929-concatenation-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/1929-concatenation-of-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Chaitanya7777777/leetcode/tree/master/0664-strange-printer) |
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Chaitanya7777777/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chaitanya7777777/leetcode/tree/master/1510-stone-game-iv) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Chaitanya7777777/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |

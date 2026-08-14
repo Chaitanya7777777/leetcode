@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chaitanya7777777/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chaitanya7777777/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chaitanya7777777/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chaitanya7777777/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chaitanya7777777/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaitanya7777777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chaitanya7777777/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Chaitanya7777777/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |

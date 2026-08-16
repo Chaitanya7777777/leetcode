@@ -8,7 +8,7 @@ public:
         for(int i=0;i<n;i++){
             m[fruits[i]]++;
             if(m[fruits[i]]==1)dist++;
-            while(dist>2){
+            if(dist>2){
                 if(m[fruits[l]]==1)dist--;
                 m[fruits[l]]--;
                 l++;

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/Chaitanya7777777/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Chaitanya7777777/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Chaitanya7777777/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaitanya7777777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/Chaitanya7777777/leetcode/tree/master/0664-strange-printer) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Chaitanya7777777/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1529-minimum-suffix-flips](https://github.com/Chaitanya7777777/leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chaitanya7777777/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chaitanya7777777/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaitanya7777777/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Chaitanya7777777/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Chaitanya7777777/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaitanya7777777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chaitanya7777777/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Chaitanya7777777/leetcode/tree/master/3634-minimum-removals-to-balance-array) |

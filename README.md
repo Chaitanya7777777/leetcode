@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Chaitanya7777777/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/Chaitanya7777777/leetcode/tree/master/0636-exclusive-time-of-functions) |
+| [0713-subarray-product-less-than-k](https://github.com/Chaitanya7777777/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Chaitanya7777777/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0713-subarray-product-less-than-k](https://github.com/Chaitanya7777777/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Chaitanya7777777/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaitanya7777777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chaitanya7777777/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Chaitanya7777777/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Chaitanya7777777/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
 ## Stack

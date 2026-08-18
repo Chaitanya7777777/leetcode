@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chaitanya7777777/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Chaitanya7777777/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3731-find-missing-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chaitanya7777777/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chaitanya7777777/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Chaitanya7777777/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Chaitanya7777777/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3649-number-of-perfect-pairs](https://github.com/Chaitanya7777777/leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chaitanya7777777/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Chaitanya7777777/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,17 +262,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chaitanya7777777/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/Chaitanya7777777/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chaitanya7777777/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/Chaitanya7777777/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Graph Theory
 |  |
 | ------- |
 | [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chaitanya7777777/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/Chaitanya7777777/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
@@ -312,8 +318,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chaitanya7777777/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 ## Meet in the Middle
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Union-Find
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chaitanya7777777/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chaitanya7777777/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Chaitanya7777777/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Chaitanya7777777/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/3731-find-missing-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3035-maximum-palindromes-after-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chaitanya7777777/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Chaitanya7777777/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Chaitanya7777777/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Chaitanya7777777/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3649-number-of-perfect-pairs](https://github.com/Chaitanya7777777/leetcode/tree/master/3649-number-of-perfect-pairs) |

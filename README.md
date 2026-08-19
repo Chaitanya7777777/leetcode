@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/Chaitanya7777777/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Chaitanya7777777/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1386-cinema-seat-allocation](https://github.com/Chaitanya7777777/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Chaitanya7777777/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaitanya7777777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Chaitanya7777777/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/1140-stone-game-ii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Chaitanya7777777/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1386-cinema-seat-allocation](https://github.com/Chaitanya7777777/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Chaitanya7777777/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Chaitanya7777777/leetcode/tree/master/1563-stone-game-v) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1386-cinema-seat-allocation](https://github.com/Chaitanya7777777/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1529-minimum-suffix-flips](https://github.com/Chaitanya7777777/leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Chaitanya7777777/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Chaitanya7777777/leetcode/tree/master/0526-beautiful-arrangement) |
+| [1386-cinema-seat-allocation](https://github.com/Chaitanya7777777/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Chaitanya7777777/leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chaitanya7777777/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |

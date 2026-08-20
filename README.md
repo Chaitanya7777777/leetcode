@@ -339,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
 | [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Chaitanya7777777/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

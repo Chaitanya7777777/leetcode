@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Chaitanya7777777/leetcode/tree/master/0394-decode-string) |
 | [0664-strange-printer](https://github.com/Chaitanya7777777/leetcode/tree/master/0664-strange-printer) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Chaitanya7777777/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1529-minimum-suffix-flips](https://github.com/Chaitanya7777777/leetcode/tree/master/1529-minimum-suffix-flips) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Chaitanya7777777/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Chaitanya7777777/leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Chaitanya7777777/leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Chaitanya7777777/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chaitanya7777777/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Minimax

@@ -27,7 +27,6 @@ public:
         b.push_back(b0);
         int comp=a.size();
         for(int i=0;i<comp;i++){
-            sort(a[i].begin(),a[i].end());
             sort(b[i].begin(),b[i].end());
         }
         vector<int>ans(n);

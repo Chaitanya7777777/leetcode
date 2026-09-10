@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaitanya7777777/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chaitanya7777777/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/Chaitanya7777777/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaitanya7777777/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 ## Topological Sort
 |  |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaitanya7777777/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->

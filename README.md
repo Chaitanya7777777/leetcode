@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Chaitanya7777777/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0713-subarray-product-less-than-k](https://github.com/Chaitanya7777777/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
+| [0835-image-overlap](https://github.com/Chaitanya7777777/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Chaitanya7777777/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Chaitanya7777777/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Chaitanya7777777/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaitanya7777777/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chaitanya7777777/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Nim Game

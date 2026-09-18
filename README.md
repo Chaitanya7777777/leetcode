@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Chaitanya7777777/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1386-cinema-seat-allocation](https://github.com/Chaitanya7777777/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chaitanya7777777/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Chaitanya7777777/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaitanya7777777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Chaitanya7777777/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chaitanya7777777/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/Chaitanya7777777/leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1927-sum-game](https://github.com/Chaitanya7777777/leetcode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chaitanya7777777/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1386-cinema-seat-allocation](https://github.com/Chaitanya7777777/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chaitanya7777777/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/Chaitanya7777777/leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1927-sum-game](https://github.com/Chaitanya7777777/leetcode/tree/master/1927-sum-game) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chaitanya7777777/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Chaitanya7777777/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |

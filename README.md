@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chaitanya7777777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chaitanya7777777/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3649-number-of-perfect-pairs](https://github.com/Chaitanya7777777/leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3870-count-commas-in-range](https://github.com/Chaitanya7777777/leetcode/tree/master/3870-count-commas-in-range) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Chaitanya7777777/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3524-find-x-value-of-array-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chaitanya7777777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaitanya7777777/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Chaitanya7777777/leetcode/tree/master/3634-minimum-removals-to-balance-array) |

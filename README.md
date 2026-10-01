@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaitanya7777777/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaitanya7777777/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Chaitanya7777777/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chaitanya7777777/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chaitanya7777777/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Chaitanya7777777/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Chaitanya7777777/leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chaitanya7777777/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaitanya7777777/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Chaitanya7777777/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3524-find-x-value-of-array-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chaitanya7777777/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Recursion
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/Chaitanya7777777/leetcode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chaitanya7777777/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Chaitanya7777777/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaitanya7777777/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chaitanya7777777/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Nim Game
@@ -519,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Chaitanya7777777/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chaitanya7777777/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Memoization
+|  |
+| ------- |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Chaitanya7777777/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->

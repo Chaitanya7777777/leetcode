@@ -3,7 +3,7 @@ public:
 int n,m;
 vector<int>dx={1,1,-1,-1};
 vector<int>dy={1,-1,-1,1};
-vector<vector<vector<vector<int>>>>dp;
+int dp[500][500][4][2];
 int solve(int x,int y,int d,bool turn,int tar,vector<vector<int>>& grid){
     int nx=x+dx[d],ny=y+dy[d];
     if(nx<0||nx>=n||ny<0||ny>=m||grid[nx][ny]!=tar)return 0;
@@ -14,7 +14,7 @@ int solve(int x,int y,int d,bool turn,int tar,vector<vector<int>>& grid){
 }
     int lenOfVDiagonal(vector<vector<int>>& grid) {
         n=grid.size(),m=grid[0].size();
-        dp.assign(n,vector<vector<vector<int>>>(m,vector<vector<int>>(4,vector<int>(2, -1))));
+        memset(dp,-1,sizeof(dp));
         int ans=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){

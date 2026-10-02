@@ -1,0 +1,20 @@
+class Solution {
+public:
+    void generate(vector<string>&ans,string s,int op,int cl,int n){
+        if(op==n){
+            if(cl==n){
+                ans.push_back(s);
+                return;
+            }
+            generate(ans,s+')',op,cl+1,n);
+            return;
+        }
+        generate(ans,s+'(',op+1,cl,n);
+        if(op>cl)generate(ans,s+')',op,cl+1,n);
+    }
+    vector<string> generateParenthesis(int n) {
+        vector<string>ans;
+        generate(ans,"(",1,0,n);
+        return ans;
+    }
+};

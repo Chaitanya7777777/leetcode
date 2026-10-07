@@ -1,6 +1,6 @@
 class Solution {
 public:
-unordered_map<int,set<string>>m;
+unordered_map<int,unordered_set<string>>m;
 void solve(string& res,int i,int n,int o,int d,string& s){
     if(i==n){
         if(d==0){

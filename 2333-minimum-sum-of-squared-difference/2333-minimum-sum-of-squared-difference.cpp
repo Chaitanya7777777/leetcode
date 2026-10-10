@@ -2,10 +2,9 @@ class Solution {
 public:
     long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1, int k2) {
         int n=nums1.size();
-        int mind=INT_MAX,maxd=0;
+        int maxd=0;
         long long int k=k1+k2;
         for(int i=0;i<n;i++){
-            mind=min(mind,abs(nums1[i]-nums2[i]));
             maxd=max(maxd,abs(nums1[i]-nums2[i]));
         }
         int l=0,r=maxd;

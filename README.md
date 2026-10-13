@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/Chaitanya7777777/leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/Chaitanya7777777/leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/Chaitanya7777777/leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
 | [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Chaitanya7777777/leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |

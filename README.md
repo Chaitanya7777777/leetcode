@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
 | [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
 | [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 ## Segment Tree
 |  |

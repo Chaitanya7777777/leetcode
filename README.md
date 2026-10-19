@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Chaitanya7777777/leetcode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Chaitanya7777777/leetcode/tree/master/0394-decode-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0664-strange-printer](https://github.com/Chaitanya7777777/leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Chaitanya7777777/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/Chaitanya7777777/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0310-minimum-height-trees) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/Chaitanya7777777/leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaitanya7777777/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaitanya7777777/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -653,9 +658,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->

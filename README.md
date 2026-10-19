@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Chaitanya7777777/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/Chaitanya7777777/leetcode/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chaitanya7777777/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chaitanya7777777/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chaitanya7777777/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Chaitanya7777777/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chaitanya7777777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaitanya7777777/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |

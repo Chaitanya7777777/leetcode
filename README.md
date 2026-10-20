@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Chaitanya7777777/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Chaitanya7777777/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chaitanya7777777/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Chaitanya7777777/leetcode/tree/master/0115-distinct-subsequences) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Chaitanya7777777/leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Chaitanya7777777/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Chaitanya7777777/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Chaitanya7777777/leetcode/tree/master/0486-predict-the-winner) |

@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Chaitanya7777777/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
 | [0924-minimize-malware-spread](https://github.com/Chaitanya7777777/leetcode/tree/master/0924-minimize-malware-spread) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaitanya7777777/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chaitanya7777777/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/Chaitanya7777777/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaitanya7777777/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2603-collect-coins-in-a-tree](https://github.com/Chaitanya7777777/leetcode/tree/master/2603-collect-coins-in-a-tree) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Chaitanya7777777/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaitanya7777777/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry

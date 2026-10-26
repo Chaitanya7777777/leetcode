@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaitanya7777777/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Chaitanya7777777/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Chaitanya7777777/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3649-number-of-perfect-pairs](https://github.com/Chaitanya7777777/leetcode/tree/master/3649-number-of-perfect-pairs) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chaitanya7777777/leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/Chaitanya7777777/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/Chaitanya7777777/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaitanya7777777/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Chaitanya7777777/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Chaitanya7777777/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaitanya7777777/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chaitanya7777777/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Nim Game
 |  |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chaitanya7777777/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaitanya7777777/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
 | ------- |

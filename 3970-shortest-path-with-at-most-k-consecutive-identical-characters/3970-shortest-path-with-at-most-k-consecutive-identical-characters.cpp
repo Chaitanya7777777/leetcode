@@ -13,6 +13,7 @@ public:
             auto& it=pq.top();
             int d=it[0],u=it[1],rem=it[2];
             pq.pop();
+            if(u==n-1)return d;
             if(d>dist[u][rem])continue;
             for(auto& it:adj[u]){
                 int v=it.first,w=it.second;
@@ -31,9 +32,6 @@ public:
                 }
             }
         }
-        long long int ans=LLONG_MAX;
-        for(int i=1;i<=k;i++)ans=min(ans,dist[n-1][i]);
-        if(ans==LLONG_MAX)return -1;
-        return ans;
+        return -1;
     }
 };

@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chaitanya7777777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaitanya7777777/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3607-power-grid-maintenance](https://github.com/Chaitanya7777777/leetcode/tree/master/3607-power-grid-maintenance) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Chaitanya7777777/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaitanya7777777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chaitanya7777777/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chaitanya7777777/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Chaitanya7777777/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Chaitanya7777777/leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chaitanya7777777/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Chaitanya7777777/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3665-twisted-mirror-path-count](https://github.com/Chaitanya7777777/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Chaitanya7777777/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chaitanya7777777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Chaitanya7777777/leetcode/tree/master/1872-stone-game-viii) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3903-smallest-stable-index-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
@@ -766,4 +770,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/Chaitanya7777777/leetcode/tree/master/1035-uncrossed-lines) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->

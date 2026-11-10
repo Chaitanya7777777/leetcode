@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chaitanya7777777/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Chaitanya7777777/leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaitanya7777777/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chaitanya7777777/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chaitanya7777777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Chaitanya7777777/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chaitanya7777777/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/Chaitanya7777777/leetcode/tree/master/0743-network-delay-time) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chaitanya7777777/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Chaitanya7777777/leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1882-process-tasks-using-servers](https://github.com/Chaitanya7777777/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Chaitanya7777777/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chaitanya7777777/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/1929-concatenation-of-array) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Chaitanya7777777/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Chaitanya7777777/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Chaitanya7777777/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chaitanya7777777/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2353-design-a-food-rating-system](https://github.com/Chaitanya7777777/leetcode/tree/master/2353-design-a-food-rating-system) |

@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/Chaitanya7777777/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Chaitanya7777777/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaitanya7777777/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Chaitanya7777777/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3398-smallest-substring-with-identical-characters-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3398-smallest-substring-with-identical-characters-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaitanya7777777/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaitanya7777777/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaitanya7777777/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chaitanya7777777/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Chaitanya7777777/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Chaitanya7777777/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Chaitanya7777777/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chaitanya7777777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Chaitanya7777777/leetcode/tree/master/1872-stone-game-viii) |
 | [2439-minimize-maximum-of-array](https://github.com/Chaitanya7777777/leetcode/tree/master/2439-minimize-maximum-of-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Chaitanya7777777/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Chaitanya7777777/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3903-smallest-stable-index-i](https://github.com/Chaitanya7777777/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Chaitanya7777777/leetcode/tree/master/3904-smallest-stable-index-ii) |
